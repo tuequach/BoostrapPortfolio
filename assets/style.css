@@ -1,0 +1,23 @@
+/*-------All header on pages ---------*/
+h1 {
+  text-align: center;
+  background-color: black;
+  color: white;
+  font-family: 'Fjalla One', sans-serif;
+  font-size: 20px;
+  margin: auto;
+  padding: auto;
+  width: 500px;
+}
+
+/*--------Header Pages------*/
+
+/* --------Images Style------*/
+
+img {
+  height: 300px;
+  width: 500px;
+  box-sizing: border-box;
+}
+
+/*---------Images Style-------*/
