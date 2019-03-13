@@ -15,9 +15,20 @@ h1 {
 /* --------Images Style------*/
 
 img {
-  height: 300px;
-  width: 500px;
+  height: auto;
+  width: auto;
   box-sizing: border-box;
+  text-align: center;
 }
 
 /*---------Images Style-------*/
+
+/*-------body paragraph----*/
+p {
+  color: black;
+  font-size: 12px;
+  margin: auto;
+  padding: auto;
+  width: 800px;
+
+}
